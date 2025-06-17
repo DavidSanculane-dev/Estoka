@@ -1,0 +1,126 @@
+@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
+
+/* Tipografia base */
+html, body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* Links e botões */
+a, .btn-link {
+    color: #0071c1;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+/* Conteúdo principal */
+.content {
+    padding-top: 1.1rem;
+}
+
+/* Validação de formulários */
+.valid.modified:not([type=checkbox]) {
+    outline: 1px solid #26b050;
+}
+
+.invalid {
+    outline: 1px solid red;
+}
+
+.validation-message {
+    color: red;
+}
+
+/* Erros do Blazor */
+#blazor-error-ui {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+    #blazor-error-ui .dismiss {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }
+
+.blazor-error-boundary {
+    background: url(data:image/svg+xml;base64,... /* imagem omitida por brevidade */ ) no-repeat 1rem/1.8rem, #b32121;
+    padding: 1rem 1rem 1rem 3.7rem;
+    color: white;
+}
+
+    .blazor-error-boundary::after {
+        content: "An error has occurred.";
+    }
+
+/* Menu lateral */
+nav.flex-column {
+    background-color: #001529;
+    padding: 1rem;
+    height: 100vh;
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+    overflow-y: hidden; /* remove scroll */
+}
+
+.nav-item {
+    margin-bottom: 1rem;
+}
+
+.nav-link {
+    color: #ecf0f1;
+    font-size: 1rem;
+    display: flex;
+    ;
+    gap: 10px;
+    transition: background-color 0.2s ease-in-out;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
+
+    .nav-link:hover {
+        background-color: #374151;
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+    .nav-link.active {
+        background-color: #2563eb;
+        color: white !important;
+        font-weight: bold;
+        border-radius: 6px;
+        box-shadow: inset 2px 0 0 #1d4ed8;
+    }
+
+    .nav-link i,
+    .nav-link span {
+        font-size: 1.2rem;
+    }
+
+/* Sidebar container */
+.sidebar {
+    height: 100vh;
+    overflow-y: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}

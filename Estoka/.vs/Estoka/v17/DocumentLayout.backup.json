@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|c:\\users\\david.sanculane\\desktop\\estoka\\estoka\\pages\\relatorios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|solutionrelative:pages\\relatorios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|c:\\users\\david.sanculane\\desktop\\estoka\\estoka\\pages\\entregas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|solutionrelative:pages\\entregas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|c:\\users\\david.sanculane\\desktop\\estoka\\estoka\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|c:\\users\\david.sanculane\\desktop\\estoka\\estoka\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|solutionrelative:pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|c:\\users\\david.sanculane\\desktop\\estoka\\estoka\\pages\\movimentacoes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|solutionrelative:pages\\movimentacoes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|c:\\users\\david.sanculane\\desktop\\estoka\\estoka\\pages\\produtos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|solutionrelative:pages\\produtos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|c:\\users\\david.sanculane\\desktop\\estoka\\estoka\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|c:\\users\\david.sanculane\\desktop\\estoka\\estoka\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|c:\\users\\david.sanculane\\desktop\\estoka\\estoka\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0F2AD46-64F0-4C87-8B9A-946463382003}|Estoka.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Relatorios.razor",
+              "DocumentMoniker": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\Pages\\Relatorios.razor",
+              "RelativeDocumentMoniker": "Pages\\Relatorios.razor",
+              "ToolTip": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\Pages\\Relatorios.razor",
+              "RelativeToolTip": "Pages\\Relatorios.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T11:40:45.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.razor",
+              "DocumentMoniker": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\Pages\\Dashboard.razor",
+              "RelativeDocumentMoniker": "Pages\\Dashboard.razor",
+              "ToolTip": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\Pages\\Dashboard.razor",
+              "RelativeToolTip": "Pages\\Dashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T11:37:33.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movimentacoes.razor",
+              "DocumentMoniker": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\Pages\\Movimentacoes.razor",
+              "RelativeDocumentMoniker": "Pages\\Movimentacoes.razor",
+              "ToolTip": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\Pages\\Movimentacoes.razor",
+              "RelativeToolTip": "Pages\\Movimentacoes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T11:26:31.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entregas.razor",
+              "DocumentMoniker": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\Pages\\Entregas.razor",
+              "RelativeDocumentMoniker": "Pages\\Entregas.razor",
+              "ToolTip": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\Pages\\Entregas.razor",
+              "RelativeToolTip": "Pages\\Entregas.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T11:24:56.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T09:29:29.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produtos.razor",
+              "DocumentMoniker": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\Pages\\Produtos.razor",
+              "RelativeDocumentMoniker": "Pages\\Produtos.razor",
+              "ToolTip": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\Pages\\Produtos.razor",
+              "RelativeToolTip": "Pages\\Produtos.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T11:26:41.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-17T10:01:27.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T09:51:27.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "C:\\Users\\David.Sanculane\\Desktop\\Estoka\\Estoka\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T07:28:31.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
